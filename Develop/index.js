@@ -78,12 +78,12 @@ function generateREADME(answers) {
     readmeContent += `This project is licensed under the MIT license.\n\n`;
   
     // Contributing
-    readmeContent += '## Contributing\n\n';
+    readmeContent += '## Contribution\n\n';
     readmeContent += `Sri: [https://github.com/Sowchirukuri](https://github.com/Sowchirukuri)\n\n`;
   
     // Questions
-    readmeContent += '## Questions\n\n';
-    readmeContent += `For any questions or inquiries, please reach out to me via [GitHub](https://github.com/Sowchirukuri) or email me at lakshmisowmya.chirukuri@gmail.com.\n`;
+    readmeContent += '## Questions!!!\n\n';
+  readmeContent += `For any questions or inquiries, please reach out to me via [GitHub](https://github.com/Sowchirukuri) or email me at (lakshmisowmya.chirukuri@gmail.com).\n`;
   
     return readmeContent;
   }
